@@ -15,6 +15,7 @@ bot.start((ctx) => {
     /website
     /instagram
     /events
+    /covid
     /crew
     /quotes
     `)
