@@ -1,0 +1,16 @@
+{
+  "name": "gads-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for gads developed by Akhiljith K",
+  "main": "app.js",
+  "scripts": {
+    "start": "micro-bot"
+  },
+  "author": "Akhiljith K",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "micro-bot": "^2.5.3",
+    "telegraf": "^4.3.0"
+  }
+}
